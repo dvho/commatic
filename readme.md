@@ -1,7 +1,7 @@
 # Commatic
 _Commatic_ is a lightweight comma delimiter for formatting numbers into standard form periods. Everyone needs one of these.
 
-
+<img src="https://user-images.githubusercontent.com/45696445/67348320-8456ac80-f512-11e9-9e33-d8b91b7fd283.gif">
 
 _________________________
 ## API
