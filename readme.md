@@ -1,5 +1,5 @@
 # Commatic
-_Commatic_ is a lightweight comma delimiter for formatting numbers into standard form periods. Everyone needs one of these.
+[_Commatic_](https://www.npmjs.com/package/commatic) is a lightweight comma delimiter for formatting numbers into standard form periods. Everyone needs one of these.
 
 <img src="https://user-images.githubusercontent.com/45696445/67348320-8456ac80-f512-11e9-9e33-d8b91b7fd283.gif">
 
@@ -71,7 +71,7 @@ console.log(commatic(87));
 _________________________
 &nbsp;
 ## Notes
-_Commatic_ is a lightweight comma delimiter for formatting numbers into standard form periods. Everyone needs one of these.
+[_Commatic_](https://www.npmjs.com/package/commatic) is a lightweight comma delimiter for formatting numbers into standard form periods. Everyone needs one of these.
 
 ## Installation
 With [npm](http://npmjs.org) do
