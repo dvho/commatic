@@ -1,11 +1,17 @@
 {
     "name": "commatic",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Commatic is a lightweight comma delimiter for formatting numbers into standard form periods. Everyone needs one of these.",
     "main": "commatic.js",
+    "files": [
+        "package.json",
+        "commatic.js",
+        "commatic.test.js",
+        "readme.md"
+    ],
     "scripts": {
         "test": "node commatic.test.js",
-        "prepublish": "npm test"
+        "prepublishOnly": "npm test"
     },
     "keywords": [
         "delimit",
